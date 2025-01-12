@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ship Routing Application</title>
+</head>
+<body>
+    <form method="POST" action="/">
+        <label for="start_lat">Starting Latitude:</label>
+        <input type="number" id="start_lat" name="start_lat" placeholder="Enter starting latitude">
+        <br>
+        <label for="start_lon">Starting Longitude:</label>
+        <input type="number" id="start_lon" name="start_lon" placeholder="Enter starting longitude">
+        <br>
+        <label for="end_lat">Ending Latitude:</label>
+        <input type="number" id="end_lat" name="end_lat" placeholder="Enter ending latitude">
+        <br>
+        <label for="end_lon">Ending Longitude:</label>
+        <input type="number" id="end_lon" name="end_lon" placeholder="Enter ending longitude">
+        <br>
+        <label for="ship_speed">Ship Speed (km/h):</label>
+        <input type="number" id="ship_speed" name="ship_speed" placeholder="Enter ship speed">
+        <br>
+        <label for="fuel_consumption">Fuel Consumption Rate (liters/km):</label>
+        <input type="number" id="fuel_consumption" name="fuel_consumption" placeholder="Enter fuel consumption rate">
+        <br>
+        <button type="submit">Calculate Route</button>
+    </form>
+    <div id="results">
+        <h2>Results</h2>
+        <p>Total Distance: <span id="distance"></span> km</p>
+        <p>Fuel Consumption: <span id="fuel_consumption"></span> liters</p>
+        <p>Travel Time: <span id="time"></span> hours</p>
+    </div>
+    <div id="map" style="height: 500px;">
+    </div>
+</body>
+</html>

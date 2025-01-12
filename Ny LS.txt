@@ -1,0 +1,86 @@
+Ny LS
+
+lat_NY = 40.7128
+lon_NY = -74.0060
+lat_LS = 38.7223
+lon_LS = 9.1393
+
+capetown to brazil
+lat_NY = -33.9249
+lon_NY = 18.4241
+lat_LS = -22.9068
+lon_LS = -43.1729
+
+
+mumbai to kolkata
+lat_NY =18.9633
+lon_NY =  72.8358
+lat_LS = 22.5397
+lon_LS =88.3280
+
+mumbai to srilanka
+lat_NY =18.9633
+lon_NY =  72.8358
+lat_LS = 7.8731
+lon_LS = 80.7718
+
+
+lat_NY = 40.7128
+lon_NY = -74.0060
+lat_LS = 1.3521
+lon_LS = 103.8198
+
+buenos ares to mumbai
+
+lat_NY =-34.603722
+lon_NY = -58.381592
+lat_LS = 18.9633
+lon_LS = .
+
+ny to Mumbai
+
+lat_NY = 40.7128
+lon_NY = -74.0060
+lat_LS = 18.9633
+lon_LS = 72.8358
+
+40.7128,-74.0060
+38.7223, 9.1393
+
+
+1 - minal 
+2- minal
+3 - Vikrant
+4- vikrant
+5- vikrant
+6- minal
+7 - minal
+conclusion - minal 
+
+
+
+
+
+
+mouse move /
+show website
+
+team members
+conclusion - 30s
+
+only minal and vikrant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
